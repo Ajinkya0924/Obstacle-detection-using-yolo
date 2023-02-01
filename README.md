@@ -55,6 +55,9 @@ imShow('predictions.jpg')
 
 This will output the image with the detections shown. The most recent detections are always saved to 'predictions.jpg'
 
-**Some Output Prediction**
+**Some Output Prediction:**
+  
+  ![image](https://github.com/Ajinkya0924/Obstacle-detection-using-yolo/blob/main/Test%20images/Mumbai_road%20yolov4.png)
+  
 
 

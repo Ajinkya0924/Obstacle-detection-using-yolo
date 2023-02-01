@@ -41,7 +41,7 @@ These three functions are helper functions that will allow you to show the image
 
 **Step 5: Run Your Detections with Darknet and YOLOv4!**
 
-Darknet is now built and ready to run detections using YOLOv4 in the cloud! You can find out which sorts of classes the pre-trained YOLOv4 weights can detect by clicking here. COCO CLASSES
+Darknet is now built and ready to run detections using YOLOv4 in the cloud! You can find out which sorts of classes the pre-trained YOLOv4 weights can detect by clicking here. [COCO CLASSES](http://cocodataset.org/#explore)
 
 The object detector can be run using the following command
 
